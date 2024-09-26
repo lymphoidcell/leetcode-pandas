@@ -117,3 +117,32 @@ Solutions will be provided in both **Pandas (Python)** and **SQL** formats.
 
 ---
 
+## 📫 Connect with Me
+
+- **LeetCode:** [@lymphoidcell](https://leetcode.com/u/lymphoidcell/)
+- **LinkedIn:** [Theophanie Scholastica Tanzil](https://www.linkedin.com/in/thscho/)
+- **Email:** [theophanietanzil@gmail.com](mailto:theophanietanzil@gmail.com)
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Programming Languages:** Python, SQL
+- **Libraries & Frameworks:** Pandas, NumPy
+- **Version Control:** Git, GitHub
+- **Databases:** MySQL, PostgreSQL
+
+---
+
+## 💡 About This Repository
+
+This repository contains solutions to the "30 Days of Pandas" challenge on LeetCode. Each day focuses on different aspects of data manipulation and analysis using Pandas and SQL. The goal is to enhance proficiency in data handling, querying, and problem-solving using these powerful tools.
+
+Feel free to explore the solutions, contribute, and collaborate!
+
+---
+
+## 📢 Stay Updated
+
+Follow this repository to stay updated with the latest solutions and improvements. Contributions and feedback are always welcome!
+
